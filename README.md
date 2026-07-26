@@ -66,7 +66,7 @@ Slots are limited. When capacity is full, enrollment closes until a seat opens.
 | Entry | Discord only |
 | Pricing | From member plans in `#how-to-buy` |
 <!-- pulse:start -->
-| Last verified | 2026-07-26 20:59 UTC |
+| Last verified | 2026-07-26 21:02 UTC |
 | Pulse | auto / 2026-07-26 |
 <!-- pulse:end -->
 
