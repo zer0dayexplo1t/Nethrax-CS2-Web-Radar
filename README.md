@@ -62,17 +62,23 @@ Slots are limited. When capacity is full, enrollment closes until a seat opens.
 | Item | Detail |
 |------|--------|
 | Product | CS2 web radar |
-| Model | Private · slotted · HWID-bound |
+| Model | Private / slotted / HWID-bound |
 | Entry | Discord only |
 | Pricing | From member plans in `#how-to-buy` |
+<!-- pulse:start -->
+| Last verified | 2026-07-26 20:59 UTC |
+| Pulse | auto / 2026-07-26 |
+<!-- pulse:end -->
+
+Live stamp also mirrored in [STATUS.md](STATUS.md).
 
 ## Support
 
 All support runs inside Discord:
 
-- Setup → `#setup-guide`
-- Buy / slots → `#how-to-buy`
-- Help → tickets / `#support`
+- Setup -> `#setup-guide`
+- Buy / slots -> `#how-to-buy`
+- Help -> tickets / `#support`
 
 **Discord:** [https://discord.gg/df4FYdskTZ](https://discord.gg/df4FYdskTZ)
 
