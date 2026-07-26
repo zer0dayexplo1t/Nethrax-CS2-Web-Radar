@@ -1,4 +1,4 @@
-# Nethrax — CS2 Web Radar
+﻿# Nethrax — CS2 Web Radar
 
 **Private slotted Counter-Strike 2 web radar.** Real-time map intel in your browser. Limited seats. HWID-bound access.
 
@@ -65,12 +65,9 @@ Slots are limited. When capacity is full, enrollment closes until a seat opens.
 | Model | Private / slotted / HWID-bound |
 | Entry | Discord only |
 | Pricing | From member plans in `#how-to-buy` |
-<!-- pulse:start -->
+<!-- status:start -->
 | Last verified | 2026-07-26 21:02 UTC |
-| Pulse | auto / 2026-07-26 |
-<!-- pulse:end -->
-
-Live stamp also mirrored in [STATUS.md](STATUS.md).
+<!-- status:end -->
 
 ## Support
 
