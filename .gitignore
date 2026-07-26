@@ -1,0 +1,17 @@
+.DS_Store
+Thumbs.db
+*.log
+.env
+.env.*
+*.exe
+*.dll
+*.sys
+*.pdb
+*.zip
+*.7z
+*.rar
+src/
+source/
+bin/
+build/
+out/
