@@ -2,9 +2,9 @@
 
 | Field | Value |
 |-------|-------|
-| Product | CS2 webradar |
+| Product | CS2 web radar |
 | Distribution | Discord only |
 | Model | Private / slotted / HWID-bound |
-| Last verified | 2026-07-28 07:07 UTC |
+| Last verified | 2026-07-28 08:15 UTC |
 
 Join Discord for live slot and detection status.
