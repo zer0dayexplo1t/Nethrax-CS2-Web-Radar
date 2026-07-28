@@ -1,6 +1,6 @@
-# Nethrax — CS2 Web Radar
+# Nethrax — CS2 Webradar
 
-**Private slotted Counter-Strike 2 web radar.** Real-time map intel in your browser. Limited seats. HWID-bound access.
+**Private slotted Counter-Strike 2 webradar.** Real-time CS2 webradar map intel in your browser. Limited seats. HWID-bound access.
 
 > **Access is Discord-only.** No public downloads. No public keys. Join the community to claim a slot.
 
@@ -17,18 +17,18 @@ Slots are limited. When capacity is full, enrollment closes until a seat opens.
 
 - **Slotted community** — fixed member capacity, not mass distribution
 - **HWID-bound seats** — one player, one machine
-- **Browser radar** — live CS2 map intel without a cluttered overlay stack
+- **CS2 webradar in the browser** — live map intel without a cluttered overlay stack
 - **Private support** — billing, HWID, and setup handled in tickets
-- **Controlled updates** — loader + web platform delivered to members only
+- **Controlled updates** — loader + webradar platform delivered to members only
 
 ## Features
 
-### Radar
+### Webradar
 
 - Live player positions on the map
 - Team / enemy context
 - Distance and map awareness
-- Browser-based view (desktop)
+- Browser-based CS2 webradar view (desktop)
 
 ### Access control
 
@@ -46,36 +46,40 @@ Slots are limited. When capacity is full, enrollment closes until a seat opens.
 
 ## Preview
 
-![Nethrax CS2 Web Radar](preview.png)
+![Nethrax CS2 Webradar](preview.png)
 
 ## How it works
 
 1. Open Discord and claim membership when slots are available
 2. Complete checkout through the official buy flow
 3. Link your account and authorize your device
-4. Launch via the member loader and open the web radar
+4. Launch via the member loader and open the CS2 webradar
 
 **There is no public source code in this repository.** Distribution happens only through the official Nethrax Discord.
+
+## Keywords
+
+CS2 webradar · Counter-Strike 2 web radar · private slotted webradar · HWID-bound CS2 radar
 
 ## Status
 
 | Item | Detail |
 |------|--------|
-| Product | CS2 web radar |
+| Product | CS2 webradar |
 | Model | Private / slotted / HWID-bound |
 | Entry | Discord only |
 | Pricing | From member plans in `#how-to-buy` |
 <!-- status:start -->
-| Last verified | 2026-07-27 10:39 UTC |
+| Last verified | 2026-07-28 07:07 UTC |
 <!-- status:end -->
 
 ## Support
 
 All support runs inside Discord:
 
-- Setup -> `#setup-guide`
-- Buy / slots -> `#how-to-buy`
-- Help -> tickets / `#support`
+- Setup → `#setup-guide`
+- Buy / slots → `#how-to-buy`
+- Help → tickets / `#support`
 
 **Discord:** [https://discord.gg/df4FYdskTZ](https://discord.gg/df4FYdskTZ)
 
