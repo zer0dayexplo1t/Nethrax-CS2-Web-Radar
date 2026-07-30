@@ -2,9 +2,11 @@
 
 | Field | Value |
 |-------|-------|
-| Product | CS2 web radar |
+| Product | Undetected CS2 web radar |
+| Detection | Undetected |
 | Distribution | Discord only |
-| Model | Private / slotted / HWID-bound |
-| Last verified | 2026-07-30 17:23 UTC |
+| Model | Private / slotted / device-bound |
+| Focus | Second-screen match intel |
+| Last verified | 2026-07-30 17:30 UTC |
 
-Join Discord for live slot and detection status.
+Join Discord for live seat availability and detection status.
