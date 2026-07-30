@@ -70,7 +70,7 @@ CS2 webradar · Counter-Strike 2 web radar · private slotted webradar · HWID-b
 | Entry | Discord only |
 | Pricing | From member plans in `#how-to-buy` |
 <!-- status:start -->
-| Last verified | 2026-07-30 02:14 UTC |
+| Last verified | 2026-07-30 08:15 UTC |
 <!-- status:end -->
 
 ## Support
