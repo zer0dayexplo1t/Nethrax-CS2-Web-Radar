@@ -70,7 +70,7 @@ CS2 webradar · Counter-Strike 2 web radar · undetected CS2 radar · private sl
 | Entry | Discord only |
 | Pricing | From member plans in `#how-to-buy` |
 <!-- status:start -->
-| Last verified | 2026-08-02 08:23 UTC |
+| Last verified | 2026-08-02 08:34 UTC |
 <!-- status:end -->
 
 ## Support
