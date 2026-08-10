@@ -5,6 +5,6 @@
 | Product | CS2 web radar |
 | Distribution | Discord only |
 | Model | Private / slotted / HWID-bound |
-| Last verified | 2026-08-09 15:28 UTC |
+| Last verified | 2026-08-10 08:15 UTC |
 
 Join Discord for live slot and detection status.
